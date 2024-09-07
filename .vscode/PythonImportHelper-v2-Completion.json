@@ -1,0 +1,1236 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "constants",
+        "importPath": "django.contrib.messages",
+        "description": "django.contrib.messages",
+        "isExtraImport": true,
+        "detail": "django.contrib.messages",
+        "documentation": {}
+    },
+    {
+        "label": "mail",
+        "importPath": "django.core",
+        "description": "django.core",
+        "isExtraImport": true,
+        "detail": "django.core",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "now",
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "isExtraImport": true,
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "django.contrib.sessions.models",
+        "description": "django.contrib.sessions.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.sessions.models",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "django.contrib.sessions.models",
+        "description": "django.contrib.sessions.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.sessions.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "post_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "receiver",
+        "importPath": "django.dispatch",
+        "description": "django.dispatch",
+        "isExtraImport": true,
+        "detail": "django.dispatch",
+        "documentation": {}
+    },
+    {
+        "label": "Sum",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sum",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "Paginator",
+        "importPath": "django.core.paginator",
+        "description": "django.core.paginator",
+        "isExtraImport": true,
+        "detail": "django.core.paginator",
+        "documentation": {}
+    },
+    {
+        "label": "EmptyPage",
+        "importPath": "django.core.paginator",
+        "description": "django.core.paginator",
+        "isExtraImport": true,
+        "detail": "django.core.paginator",
+        "documentation": {}
+    },
+    {
+        "label": "PageNotAnInteger",
+        "importPath": "django.core.paginator",
+        "description": "django.core.paginator",
+        "isExtraImport": true,
+        "detail": "django.core.paginator",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "ExpenseTracker.asgi",
+        "description": "ExpenseTracker.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "ExpenseTracker.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "ExpenseTracker.settings",
+        "description": "ExpenseTracker.settings",
+        "peekOfCode": "BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = '4--(d0^o%3vqt#-c(hf+8)a$95z8gbo57xol5pft!%xpve9_zd'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "ExpenseTracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "ExpenseTracker.settings",
+        "description": "ExpenseTracker.settings",
+        "peekOfCode": "SECRET_KEY = '4--(d0^o%3vqt#-c(hf+8)a$95z8gbo57xol5pft!%xpve9_zd'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "ExpenseTracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "ExpenseTracker.settings",
+        "description": "ExpenseTracker.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "ExpenseTracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "ExpenseTracker.settings",
+        "description": "ExpenseTracker.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'home.apps.HomeConfig',",
+        "detail": "ExpenseTracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "ExpenseTracker.settings",
+        "description": "ExpenseTracker.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'home.apps.HomeConfig',\n]\nMIDDLEWARE = [",
+        "detail": "ExpenseTracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "ExpenseTracker.settings",
+        "description": "ExpenseTracker.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'ExpenseTracker.urls'",
+        "detail": "ExpenseTracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "ExpenseTracker.settings",
+        "description": "ExpenseTracker.settings",
+        "peekOfCode": "ROOT_URLCONF = 'ExpenseTracker.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "ExpenseTracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "ExpenseTracker.settings",
+        "description": "ExpenseTracker.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "ExpenseTracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "ExpenseTracker.settings",
+        "description": "ExpenseTracker.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'ExpenseTracker.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.0/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# Password validation",
+        "detail": "ExpenseTracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "ExpenseTracker.settings",
+        "description": "ExpenseTracker.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.0/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "ExpenseTracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "ExpenseTracker.settings",
+        "description": "ExpenseTracker.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "ExpenseTracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "ExpenseTracker.settings",
+        "description": "ExpenseTracker.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.0/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS=[os.path.join(BASE_DIR,\"static\"),]\nMESSAGE_TAGS = {",
+        "detail": "ExpenseTracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "ExpenseTracker.settings",
+        "description": "ExpenseTracker.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.0/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS=[os.path.join(BASE_DIR,\"static\"),]\nMESSAGE_TAGS = {\n    messages.ERROR:\"danger\"",
+        "detail": "ExpenseTracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "ExpenseTracker.settings",
+        "description": "ExpenseTracker.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.0/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS=[os.path.join(BASE_DIR,\"static\"),]\nMESSAGE_TAGS = {\n    messages.ERROR:\"danger\"\n}",
+        "detail": "ExpenseTracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "ExpenseTracker.settings",
+        "description": "ExpenseTracker.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.0/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS=[os.path.join(BASE_DIR,\"static\"),]\nMESSAGE_TAGS = {\n    messages.ERROR:\"danger\"\n}\n#SMTP Configuration",
+        "detail": "ExpenseTracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "ExpenseTracker.settings",
+        "description": "ExpenseTracker.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.0/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS=[os.path.join(BASE_DIR,\"static\"),]\nMESSAGE_TAGS = {\n    messages.ERROR:\"danger\"\n}\n#SMTP Configuration\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'",
+        "detail": "ExpenseTracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "ExpenseTracker.settings",
+        "description": "ExpenseTracker.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nSTATICFILES_DIRS=[os.path.join(BASE_DIR,\"static\"),]\nMESSAGE_TAGS = {\n    messages.ERROR:\"danger\"\n}\n#SMTP Configuration\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_PORT = 587\nEMAIL_USE_TLS = True",
+        "detail": "ExpenseTracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MESSAGE_TAGS",
+        "kind": 5,
+        "importPath": "ExpenseTracker.settings",
+        "description": "ExpenseTracker.settings",
+        "peekOfCode": "MESSAGE_TAGS = {\n    messages.ERROR:\"danger\"\n}\n#SMTP Configuration\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_PORT = 587\nEMAIL_USE_TLS = True\nEMAIL_HOST_USER = ''\nEMAIL_HOST_PASSWORD = ''",
+        "detail": "ExpenseTracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_BACKEND",
+        "kind": 5,
+        "importPath": "ExpenseTracker.settings",
+        "description": "ExpenseTracker.settings",
+        "peekOfCode": "EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_PORT = 587\nEMAIL_USE_TLS = True\nEMAIL_HOST_USER = ''\nEMAIL_HOST_PASSWORD = ''\nMEDIA_ROOT = os.path.join(BASE_DIR,'static/img')\nMEDIA_URL = '/img/'",
+        "detail": "ExpenseTracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST",
+        "kind": 5,
+        "importPath": "ExpenseTracker.settings",
+        "description": "ExpenseTracker.settings",
+        "peekOfCode": "EMAIL_HOST = 'smtp.gmail.com'\nEMAIL_PORT = 587\nEMAIL_USE_TLS = True\nEMAIL_HOST_USER = ''\nEMAIL_HOST_PASSWORD = ''\nMEDIA_ROOT = os.path.join(BASE_DIR,'static/img')\nMEDIA_URL = '/img/'",
+        "detail": "ExpenseTracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_PORT",
+        "kind": 5,
+        "importPath": "ExpenseTracker.settings",
+        "description": "ExpenseTracker.settings",
+        "peekOfCode": "EMAIL_PORT = 587\nEMAIL_USE_TLS = True\nEMAIL_HOST_USER = ''\nEMAIL_HOST_PASSWORD = ''\nMEDIA_ROOT = os.path.join(BASE_DIR,'static/img')\nMEDIA_URL = '/img/'",
+        "detail": "ExpenseTracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_USE_TLS",
+        "kind": 5,
+        "importPath": "ExpenseTracker.settings",
+        "description": "ExpenseTracker.settings",
+        "peekOfCode": "EMAIL_USE_TLS = True\nEMAIL_HOST_USER = ''\nEMAIL_HOST_PASSWORD = ''\nMEDIA_ROOT = os.path.join(BASE_DIR,'static/img')\nMEDIA_URL = '/img/'",
+        "detail": "ExpenseTracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_USER",
+        "kind": 5,
+        "importPath": "ExpenseTracker.settings",
+        "description": "ExpenseTracker.settings",
+        "peekOfCode": "EMAIL_HOST_USER = ''\nEMAIL_HOST_PASSWORD = ''\nMEDIA_ROOT = os.path.join(BASE_DIR,'static/img')\nMEDIA_URL = '/img/'",
+        "detail": "ExpenseTracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_PASSWORD",
+        "kind": 5,
+        "importPath": "ExpenseTracker.settings",
+        "description": "ExpenseTracker.settings",
+        "peekOfCode": "EMAIL_HOST_PASSWORD = ''\nMEDIA_ROOT = os.path.join(BASE_DIR,'static/img')\nMEDIA_URL = '/img/'",
+        "detail": "ExpenseTracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "ExpenseTracker.settings",
+        "description": "ExpenseTracker.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR,'static/img')\nMEDIA_URL = '/img/'",
+        "detail": "ExpenseTracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "ExpenseTracker.settings",
+        "description": "ExpenseTracker.settings",
+        "peekOfCode": "MEDIA_URL = '/img/'",
+        "detail": "ExpenseTracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "ExpenseTracker.urls",
+        "description": "ExpenseTracker.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include('home.urls'))  \n]\nurlpatterns +=  static(settings.MEDIA_URL,document_root=settings.MEDIA_ROOT )",
+        "detail": "ExpenseTracker.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "ExpenseTracker.wsgi",
+        "description": "ExpenseTracker.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "ExpenseTracker.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "expense_tracker.expense_tracker.asgi",
+        "description": "expense_tracker.expense_tracker.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "expense_tracker.expense_tracker.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "expense_tracker.expense_tracker.settings",
+        "description": "expense_tracker.expense_tracker.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-kk6fuik3jn8+tx*7^l8-xvs_8cn@)yf_19-$_p=c=%3pzzl@s7'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "expense_tracker.expense_tracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "expense_tracker.expense_tracker.settings",
+        "description": "expense_tracker.expense_tracker.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-kk6fuik3jn8+tx*7^l8-xvs_8cn@)yf_19-$_p=c=%3pzzl@s7'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "expense_tracker.expense_tracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "expense_tracker.expense_tracker.settings",
+        "description": "expense_tracker.expense_tracker.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "expense_tracker.expense_tracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "expense_tracker.expense_tracker.settings",
+        "description": "expense_tracker.expense_tracker.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n]",
+        "detail": "expense_tracker.expense_tracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "expense_tracker.expense_tracker.settings",
+        "description": "expense_tracker.expense_tracker.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n]\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',",
+        "detail": "expense_tracker.expense_tracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "expense_tracker.expense_tracker.settings",
+        "description": "expense_tracker.expense_tracker.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'expense_tracker.urls'",
+        "detail": "expense_tracker.expense_tracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "expense_tracker.expense_tracker.settings",
+        "description": "expense_tracker.expense_tracker.settings",
+        "peekOfCode": "ROOT_URLCONF = 'expense_tracker.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "expense_tracker.expense_tracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "expense_tracker.expense_tracker.settings",
+        "description": "expense_tracker.expense_tracker.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "expense_tracker.expense_tracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "expense_tracker.expense_tracker.settings",
+        "description": "expense_tracker.expense_tracker.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'expense_tracker.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.0/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "expense_tracker.expense_tracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "expense_tracker.expense_tracker.settings",
+        "description": "expense_tracker.expense_tracker.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "expense_tracker.expense_tracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "expense_tracker.expense_tracker.settings",
+        "description": "expense_tracker.expense_tracker.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "expense_tracker.expense_tracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "expense_tracker.expense_tracker.settings",
+        "description": "expense_tracker.expense_tracker.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "expense_tracker.expense_tracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "expense_tracker.expense_tracker.settings",
+        "description": "expense_tracker.expense_tracker.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "expense_tracker.expense_tracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "expense_tracker.expense_tracker.settings",
+        "description": "expense_tracker.expense_tracker.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "expense_tracker.expense_tracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "expense_tracker.expense_tracker.settings",
+        "description": "expense_tracker.expense_tracker.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "expense_tracker.expense_tracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "expense_tracker.expense_tracker.settings",
+        "description": "expense_tracker.expense_tracker.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "expense_tracker.expense_tracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "expense_tracker.expense_tracker.settings",
+        "description": "expense_tracker.expense_tracker.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "expense_tracker.expense_tracker.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "expense_tracker.expense_tracker.urls",
+        "description": "expense_tracker.expense_tracker.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n]",
+        "detail": "expense_tracker.expense_tracker.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "expense_tracker.expense_tracker.wsgi",
+        "description": "expense_tracker.expense_tracker.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "expense_tracker.expense_tracker.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "TrackerConfig",
+        "kind": 6,
+        "importPath": "expense_tracker.tracker.apps",
+        "description": "expense_tracker.tracker.apps",
+        "peekOfCode": "class TrackerConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'tracker'",
+        "detail": "expense_tracker.tracker.apps",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "expense_tracker.manage",
+        "description": "expense_tracker.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'expense_tracker.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "expense_tracker.manage",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "home.migrations.0001_initial",
+        "description": "home.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='UserProfile',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "home.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Addmoney_infoAdmin",
+        "kind": 6,
+        "importPath": "home.admin",
+        "description": "home.admin",
+        "peekOfCode": "class Addmoney_infoAdmin(admin.ModelAdmin):\n    list_display=(\"user\",\"quantity\",\"Date\",\"Category\",\"add_money\")\nadmin.site.register(Addmoney_info,Addmoney_infoAdmin)\nfrom django.contrib.sessions.models import Session\nadmin.site.register(Session)\nfrom .models import UserProfile\nadmin.site.register(UserProfile)",
+        "detail": "home.admin",
+        "documentation": {}
+    },
+    {
+        "label": "HomeConfig",
+        "kind": 6,
+        "importPath": "home.apps",
+        "description": "home.apps",
+        "peekOfCode": "class HomeConfig(AppConfig):\n    name = 'home'",
+        "detail": "home.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Addmoney_info",
+        "kind": 6,
+        "importPath": "home.models",
+        "description": "home.models",
+        "peekOfCode": "class Addmoney_info(models.Model):\n    user = models.ForeignKey(User,default = 1, on_delete=models.CASCADE)\n    add_money = models.CharField(max_length = 10 , choices = ADD_EXPENSE_CHOICES )\n    quantity = models.BigIntegerField()\n    Date = models.DateField(default = now)\n    Category = models.CharField( max_length = 20, choices = SELECT_CATEGORY_CHOICES , default ='Food')\n    class Meta:\n        db_table:'addmoney'\nclass UserProfile(models.Model):\n    user = models.OneToOneField(User,on_delete=models.CASCADE)",
+        "detail": "home.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfile",
+        "kind": 6,
+        "importPath": "home.models",
+        "description": "home.models",
+        "peekOfCode": "class UserProfile(models.Model):\n    user = models.OneToOneField(User,on_delete=models.CASCADE)\n    profession = models.CharField(max_length = 10, choices=PROFESSION_CHOICES)\n    Savings = models.IntegerField( null=True, blank=True)\n    income = models.BigIntegerField(null=True, blank=True)\n    image = models.ImageField(upload_to='profile_image',blank=True)\n    def __str__(self):\n       return self.user.username",
+        "detail": "home.models",
+        "documentation": {}
+    },
+    {
+        "label": "SELECT_CATEGORY_CHOICES",
+        "kind": 5,
+        "importPath": "home.models",
+        "description": "home.models",
+        "peekOfCode": "SELECT_CATEGORY_CHOICES = [\n    (\"Food\",\"Food\"),\n    (\"Travel\",\"Travel\"),\n    (\"Shopping\",\"Shopping\"),\n    (\"Necessities\",\"Necessities\"),\n    (\"Entertainment\",\"Entertainment\"),\n    (\"Other\",\"Other\")\n ]\nADD_EXPENSE_CHOICES = [\n     (\"Expense\",\"Expense\"),",
+        "detail": "home.models",
+        "documentation": {}
+    },
+    {
+        "label": "ADD_EXPENSE_CHOICES",
+        "kind": 5,
+        "importPath": "home.models",
+        "description": "home.models",
+        "peekOfCode": "ADD_EXPENSE_CHOICES = [\n     (\"Expense\",\"Expense\"),\n     (\"Income\",\"Income\")\n ]\nPROFESSION_CHOICES =[\n    (\"Employee\",\"Employee\"),\n    (\"Business\",\"Business\"),\n    (\"Student\",\"Student\"),\n    (\"Other\",\"Other\")\n]",
+        "detail": "home.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "home.urls",
+        "description": "home.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.home, name='home'),\n    path('index/', views.index, name='index'),\n    path('register/',views.register,name='register'),\n    path('handleSignup/',views.handleSignup,name='handleSignup'),\n    path('handlelogin/',views.handlelogin,name='handlelogin'),\n    path('handleLogout/',views.handleLogout,name='handleLogout'),\n    path('reset_password/',auth_views.PasswordResetView.as_view(template_name = \"home/reset_password.html\"),name='reset_password'),\n    path('reset_password_sent/',auth_views.PasswordResetDoneView.as_view(template_name=\"home/reset_password_sent.html\"),name='password_reset_done'),\n    path('reset/<uidb64>/<token>/',auth_views.PasswordResetConfirmView.as_view(template_name =\"home/password_reset_form.html\"),name='password_reset_confirm'),",
+        "detail": "home.urls",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def home(request):\n    if request.session.has_key('is_logged'):\n        return redirect('/index')\n    return render(request,'home/login.html')\n   # return HttpResponse('This is home')\ndef index(request):\n    if request.session.has_key('is_logged'):\n        user_id = request.session[\"user_id\"]\n        user = User.objects.get(id=user_id)\n        addmoney_info = Addmoney_info.objects.filter(user=user).order_by('-Date')",
+        "detail": "home.views",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def index(request):\n    if request.session.has_key('is_logged'):\n        user_id = request.session[\"user_id\"]\n        user = User.objects.get(id=user_id)\n        addmoney_info = Addmoney_info.objects.filter(user=user).order_by('-Date')\n        paginator = Paginator(addmoney_info , 4)\n        page_number = request.GET.get('page')\n        page_obj = Paginator.get_page(paginator,page_number)\n        context = {\n            # 'add_info' : addmoney_info,",
+        "detail": "home.views",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def register(request):\n    return render(request,'home/register.html')\n    #return HttpResponse('This is blog')\ndef password(request):\n    return render(request,'home/password.html')\ndef charts(request):\n    return render(request,'home/charts.html')\ndef search(request):\n    if request.session.has_key('is_logged'):\n        user_id = request.session[\"user_id\"]",
+        "detail": "home.views",
+        "documentation": {}
+    },
+    {
+        "label": "password",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def password(request):\n    return render(request,'home/password.html')\ndef charts(request):\n    return render(request,'home/charts.html')\ndef search(request):\n    if request.session.has_key('is_logged'):\n        user_id = request.session[\"user_id\"]\n        user = User.objects.get(id=user_id)\n        fromdate = request.GET['fromdate']\n        todate = request.GET['todate']",
+        "detail": "home.views",
+        "documentation": {}
+    },
+    {
+        "label": "charts",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def charts(request):\n    return render(request,'home/charts.html')\ndef search(request):\n    if request.session.has_key('is_logged'):\n        user_id = request.session[\"user_id\"]\n        user = User.objects.get(id=user_id)\n        fromdate = request.GET['fromdate']\n        todate = request.GET['todate']\n        addmoney = Addmoney_info.objects.filter(user=user, Date__range=[fromdate,todate]).order_by('-Date')\n        return render(request,'home/tables.html',{'addmoney':addmoney})",
+        "detail": "home.views",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def search(request):\n    if request.session.has_key('is_logged'):\n        user_id = request.session[\"user_id\"]\n        user = User.objects.get(id=user_id)\n        fromdate = request.GET['fromdate']\n        todate = request.GET['todate']\n        addmoney = Addmoney_info.objects.filter(user=user, Date__range=[fromdate,todate]).order_by('-Date')\n        return render(request,'home/tables.html',{'addmoney':addmoney})\n    return redirect('home')\ndef tables(request):",
+        "detail": "home.views",
+        "documentation": {}
+    },
+    {
+        "label": "tables",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def tables(request):\n    if request.session.has_key('is_logged'):\n        user_id = request.session[\"user_id\"]\n        user = User.objects.get(id=user_id)\n        fromdate = request.POST.get('fromdate')\n        todate = request.POST.get('todate')\n        addmoney = Addmoney_info.objects.filter(user=user).order_by('-Date')\n        return render(request,'home/tables.html',{'addmoney':addmoney})\n    return redirect('home')\ndef addmoney(request):",
+        "detail": "home.views",
+        "documentation": {}
+    },
+    {
+        "label": "addmoney",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def addmoney(request):\n    return render(request,'home/addmoney.html')\ndef profile(request):\n    if request.session.has_key('is_logged'):\n        return render(request,'home/profile.html')\n    return redirect('/home')\ndef profile_edit(request,id):\n    if request.session.has_key('is_logged'):\n        add = User.objects.get(id=id)\n        # user_id = request.session[\"user_id\"]",
+        "detail": "home.views",
+        "documentation": {}
+    },
+    {
+        "label": "profile",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def profile(request):\n    if request.session.has_key('is_logged'):\n        return render(request,'home/profile.html')\n    return redirect('/home')\ndef profile_edit(request,id):\n    if request.session.has_key('is_logged'):\n        add = User.objects.get(id=id)\n        # user_id = request.session[\"user_id\"]\n        # user1 = User.objects.get(id=user_id)\n        return render(request,'home/profile_edit.html',{'add':add})",
+        "detail": "home.views",
+        "documentation": {}
+    },
+    {
+        "label": "profile_edit",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def profile_edit(request,id):\n    if request.session.has_key('is_logged'):\n        add = User.objects.get(id=id)\n        # user_id = request.session[\"user_id\"]\n        # user1 = User.objects.get(id=user_id)\n        return render(request,'home/profile_edit.html',{'add':add})\n    return redirect(\"/home\")\ndef profile_update(request,id):\n    if request.session.has_key('is_logged'):\n        if request.method == \"POST\":",
+        "detail": "home.views",
+        "documentation": {}
+    },
+    {
+        "label": "profile_update",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def profile_update(request,id):\n    if request.session.has_key('is_logged'):\n        if request.method == \"POST\":\n            user = User.objects.get(id=id)\n            user.first_name = request.POST[\"fname\"]\n            user.last_name = request.POST[\"lname\"]\n            user.email = request.POST[\"email\"]\n            user.userprofile.Savings = request.POST[\"Savings\"]\n            user.userprofile.income = request.POST[\"income\"]\n            user.userprofile.profession = request.POST[\"profession\"]",
+        "detail": "home.views",
+        "documentation": {}
+    },
+    {
+        "label": "handleSignup",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def handleSignup(request):\n    if request.method =='POST':\n            # get the post parameters\n            uname = request.POST[\"uname\"]\n            fname=request.POST[\"fname\"]\n            lname=request.POST[\"lname\"]\n            email = request.POST[\"email\"]\n            profession = request.POST['profession']\n            Savings = request.POST['Savings']\n            income = request.POST['income']",
+        "detail": "home.views",
+        "documentation": {}
+    },
+    {
+        "label": "handlelogin",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def handlelogin(request):\n    if request.method =='POST':\n        # get the post parameters\n        loginuname = request.POST[\"loginuname\"]\n        loginpassword1=request.POST[\"loginpassword1\"]\n        user = authenticate(username=loginuname, password=loginpassword1)\n        if user is not None:\n            dj_login(request, user)\n            request.session['is_logged'] = True\n            user = request.user.id ",
+        "detail": "home.views",
+        "documentation": {}
+    },
+    {
+        "label": "handleLogout",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def handleLogout(request):\n        del request.session['is_logged']\n        del request.session[\"user_id\"] \n        logout(request)\n        messages.success(request, \" Successfully logged out\")\n        return redirect('home')\n#add money form\ndef addmoney_submission(request):\n    if request.session.has_key('is_logged'):\n        if request.method == \"POST\":",
+        "detail": "home.views",
+        "documentation": {}
+    },
+    {
+        "label": "addmoney_submission",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def addmoney_submission(request):\n    if request.session.has_key('is_logged'):\n        if request.method == \"POST\":\n            user_id = request.session[\"user_id\"]\n            user1 = User.objects.get(id=user_id)\n            addmoney_info1 = Addmoney_info.objects.filter(user=user1).order_by('-Date')\n            add_money = request.POST[\"add_money\"]\n            quantity = request.POST[\"quantity\"]\n            Date = request.POST[\"Date\"]\n            Category = request.POST[\"Category\"]",
+        "detail": "home.views",
+        "documentation": {}
+    },
+    {
+        "label": "addmoney_update",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def addmoney_update(request,id):\n    if request.session.has_key('is_logged'):\n        if request.method == \"POST\":\n            add  = Addmoney_info.objects.get(id=id)\n            add .add_money = request.POST[\"add_money\"]\n            add.quantity = request.POST[\"quantity\"]\n            add.Date = request.POST[\"Date\"]\n            add.Category = request.POST[\"Category\"]\n            add .save()\n            return redirect(\"/index\")",
+        "detail": "home.views",
+        "documentation": {}
+    },
+    {
+        "label": "expense_edit",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def expense_edit(request,id):\n    if request.session.has_key('is_logged'):\n        addmoney_info = Addmoney_info.objects.get(id=id)\n        user_id = request.session[\"user_id\"]\n        user1 = User.objects.get(id=user_id)\n        return render(request,'home/expense_edit.html',{'addmoney_info':addmoney_info})\n    return redirect(\"/home\")  \ndef expense_delete(request,id):\n    if request.session.has_key('is_logged'):\n        addmoney_info = Addmoney_info.objects.get(id=id)",
+        "detail": "home.views",
+        "documentation": {}
+    },
+    {
+        "label": "expense_delete",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def expense_delete(request,id):\n    if request.session.has_key('is_logged'):\n        addmoney_info = Addmoney_info.objects.get(id=id)\n        addmoney_info.delete()\n        return redirect(\"/index\")\n    return redirect(\"/home\")  \ndef expense_month(request):\n    todays_date = datetime.date.today()\n    one_month_ago = todays_date-datetime.timedelta(days=30)\n    user_id = request.session[\"user_id\"]",
+        "detail": "home.views",
+        "documentation": {}
+    },
+    {
+        "label": "expense_month",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def expense_month(request):\n    todays_date = datetime.date.today()\n    one_month_ago = todays_date-datetime.timedelta(days=30)\n    user_id = request.session[\"user_id\"]\n    user1 = User.objects.get(id=user_id)\n    addmoney = Addmoney_info.objects.filter(user = user1,Date__gte=one_month_ago,Date__lte=todays_date)\n    finalrep ={}\n    def get_Category(addmoney_info):\n        # if addmoney_info.add_money==\"Expense\":\n        return addmoney_info.Category    ",
+        "detail": "home.views",
+        "documentation": {}
+    },
+    {
+        "label": "stats",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def stats(request):\n    if request.session.has_key('is_logged') :\n        todays_date = datetime.date.today()\n        one_month_ago = todays_date-datetime.timedelta(days=30)\n        user_id = request.session[\"user_id\"]\n        user1 = User.objects.get(id=user_id)\n        addmoney_info = Addmoney_info.objects.filter(user = user1,Date__gte=one_month_ago,Date__lte=todays_date)\n        sum = 0 \n        for i in addmoney_info:\n            if i.add_money == 'Expense':",
+        "detail": "home.views",
+        "documentation": {}
+    },
+    {
+        "label": "expense_week",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def expense_week(request):\n    todays_date = datetime.date.today()\n    one_week_ago = todays_date-datetime.timedelta(days=7)\n    user_id = request.session[\"user_id\"]\n    user1 = User.objects.get(id=user_id)\n    addmoney = Addmoney_info.objects.filter(user = user1,Date__gte=one_week_ago,Date__lte=todays_date)\n    finalrep ={}\n    def get_Category(addmoney_info):\n        return addmoney_info.Category\n    Category_list = list(set(map(get_Category,addmoney)))",
+        "detail": "home.views",
+        "documentation": {}
+    },
+    {
+        "label": "weekly",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def weekly(request):\n    if request.session.has_key('is_logged') :\n        todays_date = datetime.date.today()\n        one_week_ago = todays_date-datetime.timedelta(days=7)\n        user_id = request.session[\"user_id\"]\n        user1 = User.objects.get(id=user_id)\n        addmoney_info = Addmoney_info.objects.filter(user = user1,Date__gte=one_week_ago,Date__lte=todays_date)\n        sum = 0 \n        for i in addmoney_info:\n            if i.add_money == 'Expense':",
+        "detail": "home.views",
+        "documentation": {}
+    },
+    {
+        "label": "check",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def check(request):\n    if request.method == 'POST':\n        user_exists = User.objects.filter(email=request.POST['email'])\n        messages.error(request,\"Email not registered, TRY AGAIN!!!\")\n        return redirect(\"/reset_password\")\ndef info_year(request):\n    todays_date = datetime.date.today()\n    one_week_ago = todays_date-datetime.timedelta(days=30*12)\n    user_id = request.session[\"user_id\"]\n    user1 = User.objects.get(id=user_id)",
+        "detail": "home.views",
+        "documentation": {}
+    },
+    {
+        "label": "info_year",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def info_year(request):\n    todays_date = datetime.date.today()\n    one_week_ago = todays_date-datetime.timedelta(days=30*12)\n    user_id = request.session[\"user_id\"]\n    user1 = User.objects.get(id=user_id)\n    addmoney = Addmoney_info.objects.filter(user = user1,Date__gte=one_week_ago,Date__lte=todays_date)\n    finalrep ={}\n    def get_Category(addmoney_info):\n        return addmoney_info.Category\n    Category_list = list(set(map(get_Category,addmoney)))",
+        "detail": "home.views",
+        "documentation": {}
+    },
+    {
+        "label": "info",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def info(request):\n    return render(request,'home/info.html')",
+        "detail": "home.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ExpenseTracker.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"\n        ) from exc",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
